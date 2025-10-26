@@ -12,3 +12,8 @@ print(theset)
 # Accessing set items
 for x in theset:
     print(x)
+
+# Checking if an item exsits in a set
+print("banana" in theset)
+print("orange" in theset)
+print("apple"in theset)
