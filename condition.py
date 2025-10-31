@@ -12,3 +12,10 @@ if age >= 18:
   print("You are an adult")
   print("You can vote")
   print("You have full legal rights")
+
+# elif statement
+marks = 65
+if marks >= 80:
+   print("Grade A+")
+elif marks < 80 and marks >=70:
+   print("Grade A")
