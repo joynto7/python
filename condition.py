@@ -32,3 +32,24 @@ elif score < 50 :
    print("Ypu failed the exam")
 else:
    print("invalid Score")
+
+# weekday check using if elif else
+
+day = 3
+
+if day == 1:
+   print("Monday")
+elif day == 2 :
+   print("Tuesday")
+elif day == 3:
+   print("Wednesday")
+elif day == 4 :
+   print("Thursday")
+elif day == 5 :
+   print("Friday")
+elif day == 6 :
+   print("saturday")
+elif day == 7 :
+   print("Sunday")
+else:
+   print("Invalid Number")
