@@ -10,3 +10,10 @@ car = {
     "year": 1964
 }
 print(car)
+
+#Accessing an item
+
+A = car["brand"]
+B = car["model"]
+T = car["year"]
+print(A,B,T)
